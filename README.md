@@ -9,10 +9,10 @@ I'm a passionate and dedicated developer with experience in full-stack developme
 - C, C++, Java, Advanced Java, C#, JavaScript, Bash Scripting
 
 ### 🌐 Web Development:
-- HTML, CSS, JavaScript, React.js, Node.js, Express.js
+- HTML, CSS, JavaScript, React.js, Node.js, Express.js, Tailwind, Bootstrap
 
 ### 🗄️ Databases:
-- MongoDB, MySQL
+-  MySQL, MongoDB
 
 ### ☁️ DevOps & Cloud:
 - Docker, DevOps, Jira, AWS
