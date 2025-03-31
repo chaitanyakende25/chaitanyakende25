@@ -15,10 +15,10 @@ I'm a passionate and dedicated developer with experience in full-stack developme
 - MongoDB, MySQL
 
 ### ☁️ DevOps & Cloud:
-- Linux, Docker, DevOps, Jira
+- Docker, DevOps, Jira, AWS
 
 ### 🏗️ Frameworks & Tools:
-- Spring, .NET, GitHub
+- Spring, .NET, GitHub, Linux
 
 ### 📚 Data Structures & Algorithms:
 - DSA, Problem-solving
