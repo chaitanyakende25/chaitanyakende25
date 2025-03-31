@@ -23,9 +23,6 @@ I'm a passionate and dedicated developer with experience in full-stack developme
 ### 📚 Data Structures & Algorithms:
 - DSA, Problem-solving
 
-## 📈 GitHub Stats
-![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanyakende&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chaitanyakende)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/chaitanyakende)
