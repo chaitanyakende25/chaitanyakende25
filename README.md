@@ -25,10 +25,11 @@ I'm a passionate and dedicated developer with experience in full-stack developme
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chaitanyakende)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/chaitanyakende)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/chaitanyakende25)
 
 ## 📌 Projects
-- **Barber Hub** - A platform connecting barbers with customers.
 - **Vikreta** - An auction-based online marketplace for buyers and sellers.
+- **E-Learning Website** - An E-Learning website where student can watch and buy courses.
+- **Other Projects** - [![Projects](https://img.shields.io/badge/GitHub)](https://github.com/chaitanyakende25/repositories)
 
 > "Together we can do great things!" 🚀
